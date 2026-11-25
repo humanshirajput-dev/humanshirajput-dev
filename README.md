@@ -29,42 +29,21 @@ I'm an aspiring Full-Stack Web Developer passionate about building responsive an
 
 ## 🚀 My Projects
 
-### 🍽️ 1. Taste Router
-A restaurant discovery website that helps users explore restaurants, view their exact locations and check restaurant ratings to make informed dining decisions.
+### 🍽️ Taste Router
+A multi-page restaurant and café discovery website built using HTML5.
 
-**Key Features:**
-- Restaurant discovery and search
-- Exact restaurant locations
-- Restaurant ratings and details
-- User-friendly interface
+**Features:** Restaurant discovery, café listings, descriptions, opening hours, ratings and Google Maps links.
 
-### 💰 2. Expense Manager
-A responsive expense tracking web application that allows users to record their daily expenses and manage their spending history.
+🔗 [View Project on GitHub](https://github.com/humanshirajput-dev/restaurant-cafe-website)
 
-**Key Features:**
-- Record daily expenses
-- Store expense records in MySQL database
-- View expenses in the History page
-- Responsive user interface
-- Organized expense management
+### 💰 Expense Manager
+A responsive expense management application built using HTML, CSS, JavaScript, Bootstrap, PHP and MySQL.
 
-**Technologies:** HTML, CSS, JavaScript, Bootstrap, PHP, MySQL
+**Features:** Monthly budget, expense tracking, transaction history, category-wise reports and saving goals.
 
-### 👩‍💻 3. Personal Portfolio Website
-A personal portfolio website currently under development to showcase my skills, projects, education and developer journey.
+🔗 [View Project on GitHub](https://github.com/humanshirajput-dev/Expense-Manager-Website)
 
-**Status:** In Progress
+### 👩‍💻 Personal Portfolio
+Currently under development.
 
-**Technologies:** HTML, CSS, JavaScript
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humanshirajput-dev&show_icons=true&theme=tokyonight)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humanshirajput-dev&layout=compact&theme=tokyonight)
-
-## 🌱 My Developer Journey
-
-I believe in learning by building projects, solving problems and continuously improving my development skills.
+**Technologies:** HTML, CSS and JavaScript.

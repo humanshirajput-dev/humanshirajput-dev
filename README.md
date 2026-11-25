@@ -56,3 +56,15 @@ A personal portfolio website currently under development to showcase my skills, 
 **Status:** In Progress
 
 **Technologies:** HTML, CSS, JavaScript
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humanshirajput-dev&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humanshirajput-dev&layout=compact&theme=tokyonight)
+
+## 🌱 My Developer Journey
+
+I believe in learning by building projects, solving problems and continuously improving my development skills.

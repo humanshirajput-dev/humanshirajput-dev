@@ -26,4 +26,33 @@ I'm an aspiring Full-Stack Web Developer passionate about building responsive an
 ### Currently Learning
 - Laravel
 - Advanced JavaScript
--
+
+## 🚀 My Projects
+
+### 🍽️ 1. Taste Router
+A restaurant discovery website that helps users explore restaurants, view their exact locations and check restaurant ratings to make informed dining decisions.
+
+**Key Features:**
+- Restaurant discovery and search
+- Exact restaurant locations
+- Restaurant ratings and details
+- User-friendly interface
+
+### 💰 2. Expense Manager
+A responsive expense tracking web application that allows users to record their daily expenses and manage their spending history.
+
+**Key Features:**
+- Record daily expenses
+- Store expense records in MySQL database
+- View expenses in the History page
+- Responsive user interface
+- Organized expense management
+
+**Technologies:** HTML, CSS, JavaScript, Bootstrap, PHP, MySQL
+
+### 👩‍💻 3. Personal Portfolio Website
+A personal portfolio website currently under development to showcase my skills, projects, education and developer journey.
+
+**Status:** In Progress
+
+**Technologies:** HTML, CSS, JavaScript
